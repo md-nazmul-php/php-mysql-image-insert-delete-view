@@ -1,6 +1,6 @@
 This is script for upload an image to database using PHP mysql
 
-<img scr="images/screnshot.JPG">
+![](images/screnshot.JPG)
 
 1. download the scripts.
 
