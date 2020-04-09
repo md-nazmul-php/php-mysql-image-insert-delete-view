@@ -1,5 +1,7 @@
 This is script for upload an image to database using PHP mysql
 
+<img scr="images/WhatsApp Image 2020-03-16 at 12.57.03 AM (1).jpeg">
+
 1. download the scripts.
 
 2. create a database name is " global'
